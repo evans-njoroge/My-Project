@@ -1,0 +1,23 @@
+h1{color:red
+}
+h2{color:blue}
+img {
+       margin: 12px;
+       border: 2px solid green;
+       padding: 4px;
+     }
+.important{ font-family:cursive;
+color:green }
+.important1{font-family:cursive;
+color:purple
+}
+h3{font-family:sans-serif;
+ }
+.important2{color: red;
+font-family:fantasy;
+font-size:150% }
+.project{color:indigo
+ }
+ .project2 {color:green
+ }
+ h4 {font-size:150% }
